@@ -1,0 +1,15 @@
+main{
+  width: 60%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background: yellowgreen;
+  padding: 2vh;
+}
+button{
+  width: 30%;
+
+  margin: auto;
+  margin-top:3vh; 
+}
